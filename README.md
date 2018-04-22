@@ -38,7 +38,7 @@ python3 upload.py
 
 ## 界面预览
 
-![](http://7xqpyi.com1.z0.glb.clouddn.com/2018_04_20_18_36_49.png)
+![](http://7xqpyi.com1.z0.glb.clouddn.com/2018_04_22_10_17_32.png)
 
 ### 文件上传
 
